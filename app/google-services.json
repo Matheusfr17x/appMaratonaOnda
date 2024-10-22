@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "538038521138",
+    "project_id": "projeto-firebase-aefd9",
+    "storage_bucket": "projeto-firebase-aefd9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:538038521138:android:371fea67fbedee55871b2b",
+        "android_client_info": {
+          "package_name": "com.example.apponda"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSd96VMbMHEAWZzUjVQLAgo1qfVb4jQ44"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
